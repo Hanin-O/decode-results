@@ -11,18 +11,18 @@ Passive Building	Monthly	Sept	Equip	Energy	71601.78187	kWh
 Passive Building	Monthly	Oct	Equip	Energy	74539.29087	kWh
 Passive Building	Monthly	Nov	Equip	Energy	73437.72499	kWh
 Passive Building	Monthly	Dec	Equip	Energy	72703.34774	kWh
-Passive Building	Monthly	Jan	Fans	Energy	1105.61987	kWh
-Passive Building	Monthly	Feb	Fans	Energy	720.9263924	kWh
-Passive Building	Monthly	Mar	Fans	Energy	584.5667561	kWh
-Passive Building	Monthly	Apr	Fans	Energy	669.6800295	kWh
-Passive Building	Monthly	May	Fans	Energy	941.6020708	kWh
-Passive Building	Monthly	Jun	Fans	Energy	1346.775186	kWh
-Passive Building	Monthly	Jul	Fans	Energy	1520.889677	kWh
-Passive Building	Monthly	Aug	Fans	Energy	1235.685142	kWh
-Passive Building	Monthly	Sept	Fans	Energy	1180.535594	kWh
-Passive Building	Monthly	Oct	Fans	Energy	545.937002	kWh
-Passive Building	Monthly	Nov	Fans	Energy	647.6326349	kWh
-Passive Building	Monthly	Dec	Fans	Energy	987.5689616	kWh
+Passive Building	Monthly	Jan	Fans	Energy	2546.321104	kWh
+Passive Building	Monthly	Feb	Fans	Energy	1765.706797	kWh
+Passive Building	Monthly	Mar	Fans	Energy	1250.704288	kWh
+Passive Building	Monthly	Apr	Fans	Energy	714.4296437	kWh
+Passive Building	Monthly	May	Fans	Energy	721.9314068	kWh
+Passive Building	Monthly	Jun	Fans	Energy	1011.75537	kWh
+Passive Building	Monthly	Jul	Fans	Energy	1295.195073	kWh
+Passive Building	Monthly	Aug	Fans	Energy	975.7661132	kWh
+Passive Building	Monthly	Sept	Fans	Energy	923.5147275	kWh
+Passive Building	Monthly	Oct	Fans	Energy	663.1507794	kWh
+Passive Building	Monthly	Nov	Fans	Energy	1475.919011	kWh
+Passive Building	Monthly	Dec	Fans	Energy	2263.637512	kWh
 Passive Building	Monthly	Jan	Light	Energy	137324.879	kWh
 Passive Building	Monthly	Feb	Light	Energy	122934.593	kWh
 Passive Building	Monthly	Mar	Light	Energy	137324.879	kWh
@@ -47,37 +47,37 @@ Passive Building	Monthly	Sept	HotWater	Energy	177644.5444	kWh
 Passive Building	Monthly	Oct	HotWater	Energy	183566.0292	kWh
 Passive Building	Monthly	Nov	HotWater	Energy	177644.5444	kWh
 Passive Building	Monthly	Dec	HotWater	Energy	183566.0292	kWh
-Passive Building	Monthly	Jan	Heat	Energy	141724.3067	kWh
-Passive Building	Monthly	Feb	Heat	Energy	83576.47667	kWh
-Passive Building	Monthly	Mar	Heat	Energy	40872.97152	kWh
-Passive Building	Monthly	Apr	Heat	Energy	9032.229407	kWh
-Passive Building	Monthly	May	Heat	Energy	484.9439392	kWh
-Passive Building	Monthly	Jun	Heat	Energy	0	kWh
+Passive Building	Monthly	Jan	Heat	Energy	327637.9665	kWh
+Passive Building	Monthly	Feb	Heat	Energy	228558.4261	kWh
+Passive Building	Monthly	Mar	Heat	Energy	154728.7482	kWh
+Passive Building	Monthly	Apr	Heat	Energy	54942.03976	kWh
+Passive Building	Monthly	May	Heat	Energy	9613.475258	kWh
+Passive Building	Monthly	Jun	Heat	Energy	12.20663	kWh
 Passive Building	Monthly	Jul	Heat	Energy	0	kWh
 Passive Building	Monthly	Aug	Heat	Energy	0	kWh
-Passive Building	Monthly	Sept	Heat	Energy	0	kWh
-Passive Building	Monthly	Oct	Heat	Energy	2274.712435	kWh
-Passive Building	Monthly	Nov	Heat	Energy	58365.04229	kWh
-Passive Building	Monthly	Dec	Heat	Energy	121616.3342	kWh
-Passive Building	Monthly	Jan	Cool	Energy	5.184774601	kWh
-Passive Building	Monthly	Feb	Cool	Energy	113.8401256	kWh
-Passive Building	Monthly	Mar	Cool	Energy	1921.536375	kWh
-Passive Building	Monthly	Apr	Cool	Energy	22562.07766	kWh
-Passive Building	Monthly	May	Cool	Energy	63602.63929	kWh
-Passive Building	Monthly	Jun	Cool	Energy	140822.8394	kWh
-Passive Building	Monthly	Jul	Cool	Energy	188365.2973	kWh
-Passive Building	Monthly	Aug	Cool	Energy	139002.4239	kWh
-Passive Building	Monthly	Sept	Cool	Energy	110668.797	kWh
-Passive Building	Monthly	Oct	Cool	Energy	7118.092994	kWh
-Passive Building	Monthly	Nov	Cool	Energy	1104.844244	kWh
-Passive Building	Monthly	Dec	Cool	Energy	15.05174254	kWh
-Passive Building	Annual		Total	Energy	5681552.373	kWh
-Passive Building	Annual		Total	Operational_CO2	3653238.176	kgCO2e
-Passive Building	Annual		Embodied	Embodied_CO2	6785876.499	kgCO2e
-Passive Building	Annual		Total	Total_CO2	10439114.67	kgCO2e
+Passive Building	Monthly	Sept	Heat	Energy	180.5041944	kWh
+Passive Building	Monthly	Oct	Heat	Energy	41788.18035	kWh
+Passive Building	Monthly	Nov	Heat	Energy	178069.4444	kWh
+Passive Building	Monthly	Dec	Heat	Energy	284760.2333	kWh
+Passive Building	Monthly	Jan	Cool	Energy	0.635349221	kWh
+Passive Building	Monthly	Feb	Cool	Energy	8.320500358	kWh
+Passive Building	Monthly	Mar	Cool	Energy	213.3400585	kWh
+Passive Building	Monthly	Apr	Cool	Energy	7759.323823	kWh
+Passive Building	Monthly	May	Cool	Energy	33237.87446	kWh
+Passive Building	Monthly	Jun	Cool	Energy	98832.91987	kWh
+Passive Building	Monthly	Jul	Cool	Energy	163678.1648	kWh
+Passive Building	Monthly	Aug	Cool	Energy	105005.0853	kWh
+Passive Building	Monthly	Sept	Cool	Energy	78528.56883	kWh
+Passive Building	Monthly	Oct	Cool	Energy	1418.563295	kWh
+Passive Building	Monthly	Nov	Cool	Energy	183.3675902	kWh
+Passive Building	Monthly	Dec	Cool	Energy	0.177650145	kWh
+Passive Building	Annual		Total	Energy	6321580.909	kWh
+Passive Building	Annual		Total	Operational_CO2	4064776.525	kgCO2e
+Passive Building	Annual		Embodied	Embodied_CO2	6753914.371	kgCO2e
+Passive Building	Annual		Total	Total_CO2	10818690.9	kgCO2e
 Passive Building	Annual		Equip	Operational_CO2	565464.9746	kgCO2e
-Passive Building	Annual		Fans	Operational_CO2	7386.41062	kgCO2e
+Passive Building	Annual		Fans	Operational_CO2	10035.96446	kgCO2e
 Passive Building	Annual		Light	Operational_CO2	961964.3926	kgCO2e
 Passive Building	Annual		HotWater	Operational_CO2	1389742.878	kgCO2e
-Passive Building	Annual		Heat	Operational_CO2	294459.932	kgCO2e
-Passive Building	Annual		Cool	Operational_CO2	434219.5878	kgCO2e
+Passive Building	Annual		Heat	Operational_CO2	823227.2575	kgCO2e
+Passive Building	Annual		Cool	Operational_CO2	314341.0576	kgCO2e

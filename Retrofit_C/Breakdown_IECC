@@ -1,0 +1,83 @@
+Scenario	TimeScale	Month	EndUse	Metric	Value	Unit
+IECC	Monthly	Jan	Equip	Energy	74539.29087	kWh
+IECC	Monthly	Feb	Equip	Energy	67562.70699	kWh
+IECC	Monthly	Mar	Equip	Energy	76375.23399	kWh
+IECC	Monthly	Apr	Equip	Energy	69765.83874	kWh
+IECC	Monthly	May	Equip	Energy	76375.23399	kWh
+IECC	Monthly	Jun	Equip	Energy	73437.72499	kWh
+IECC	Monthly	Jul	Equip	Energy	72703.34774	kWh
+IECC	Monthly	Aug	Equip	Energy	76375.23399	kWh
+IECC	Monthly	Sept	Equip	Energy	71601.78187	kWh
+IECC	Monthly	Oct	Equip	Energy	74539.29087	kWh
+IECC	Monthly	Nov	Equip	Energy	73437.72499	kWh
+IECC	Monthly	Dec	Equip	Energy	72703.34774	kWh
+IECC	Monthly	Jan	Fans	Energy	4344.013458	kWh
+IECC	Monthly	Feb	Fans	Energy	3262.12152	kWh
+IECC	Monthly	Mar	Fans	Energy	2487.07481	kWh
+IECC	Monthly	Apr	Fans	Energy	1377.14894	kWh
+IECC	Monthly	May	Fans	Energy	760.4740354	kWh
+IECC	Monthly	Jun	Fans	Energy	528.4713425	kWh
+IECC	Monthly	Jul	Fans	Energy	708.5813371	kWh
+IECC	Monthly	Aug	Fans	Energy	532.3150142	kWh
+IECC	Monthly	Sept	Fans	Energy	606.3276399	kWh
+IECC	Monthly	Oct	Fans	Energy	1204.416663	kWh
+IECC	Monthly	Nov	Fans	Energy	2710.84527	kWh
+IECC	Monthly	Dec	Fans	Energy	3823.564149	kWh
+IECC	Monthly	Jan	Light	Energy	137324.879	kWh
+IECC	Monthly	Feb	Light	Energy	122934.593	kWh
+IECC	Monthly	Mar	Light	Energy	137324.879	kWh
+IECC	Monthly	Apr	Light	Energy	129684.4313	kWh
+IECC	Monthly	May	Light	Energy	137324.879	kWh
+IECC	Monthly	Jun	Light	Energy	132528.117	kWh
+IECC	Monthly	Jul	Light	Energy	82044.65185	kWh
+IECC	Monthly	Aug	Light	Energy	82871.54749	kWh
+IECC	Monthly	Sept	Light	Energy	129684.4313	kWh
+IECC	Monthly	Oct	Light	Energy	137324.879	kWh
+IECC	Monthly	Nov	Light	Energy	132528.117	kWh
+IECC	Monthly	Dec	Light	Energy	134481.1933	kWh
+IECC	Monthly	Jan	HotWater	Energy	73819.20626	kWh
+IECC	Monthly	Feb	HotWater	Energy	66083.68523	kWh
+IECC	Monthly	Mar	HotWater	Energy	73819.20626	kWh
+IECC	Monthly	Apr	HotWater	Energy	69712.0715	kWh
+IECC	Monthly	May	HotWater	Energy	73819.20626	kWh
+IECC	Monthly	Jun	HotWater	Energy	71240.69925	kWh
+IECC	Monthly	Jul	HotWater	Energy	44120.55699	kWh
+IECC	Monthly	Aug	HotWater	Energy	44565.72237	kWh
+IECC	Monthly	Sept	HotWater	Energy	69712.0715	kWh
+IECC	Monthly	Oct	HotWater	Energy	73819.20626	kWh
+IECC	Monthly	Nov	HotWater	Energy	71240.69925	kWh
+IECC	Monthly	Dec	HotWater	Energy	72290.5785	kWh
+IECC	Monthly	Jan	Heat	Energy	620600.0385	kWh
+IECC	Monthly	Feb	Heat	Energy	475729.2049	kWh
+IECC	Monthly	Mar	Heat	Energy	370604.4236	kWh
+IECC	Monthly	Apr	Heat	Energy	181200.3569	kWh
+IECC	Monthly	May	Heat	Energy	59520.16707	kWh
+IECC	Monthly	Jun	Heat	Energy	4194.587185	kWh
+IECC	Monthly	Jul	Heat	Energy	153.9770399	kWh
+IECC	Monthly	Aug	Heat	Energy	1941.673617	kWh
+IECC	Monthly	Sept	Heat	Energy	14646.91591	kWh
+IECC	Monthly	Oct	Heat	Energy	145740.3387	kWh
+IECC	Monthly	Nov	Heat	Energy	384197.3759	kWh
+IECC	Monthly	Dec	Heat	Energy	538044.3324	kWh
+IECC	Monthly	Jan	Cool	Energy	0	kWh
+IECC	Monthly	Feb	Cool	Energy	0	kWh
+IECC	Monthly	Mar	Cool	Energy	0	kWh
+IECC	Monthly	Apr	Cool	Energy	200.0643759	kWh
+IECC	Monthly	May	Cool	Energy	2859.880547	kWh
+IECC	Monthly	Jun	Cool	Energy	23420.94477	kWh
+IECC	Monthly	Jul	Cool	Energy	74880.13552	kWh
+IECC	Monthly	Aug	Cool	Energy	33413.33266	kWh
+IECC	Monthly	Sept	Cool	Energy	31122.87137	kWh
+IECC	Monthly	Oct	Cool	Energy	701.0266364	kWh
+IECC	Monthly	Nov	Cool	Energy	0	kWh
+IECC	Monthly	Dec	Cool	Energy	0	kWh
+IECC	Annual		Total	Energy	6165233.266	kWh
+IECC	Annual		Total	Operational_CO2	3964244.99	kgCO2e
+IECC	Annual		Embodied	Embodied_CO2	7129958.812	kgCO2e
+IECC	Annual		Total	Total_CO2	11094203.8	kgCO2e
+IECC	Annual		Equip	Operational_CO2	565464.9746	kgCO2e
+IECC	Annual		Fans	Operational_CO2	14368.06274	kgCO2e
+IECC	Annual		Light	Operational_CO2	961964.3926	kgCO2e
+IECC	Annual		HotWater	Operational_CO2	517128.1909	kgCO2e
+IECC	Annual		Heat	Operational_CO2	1798196.691	kgCO2e
+IECC	Annual		Cool	Operational_CO2	107122.6785	kgCO2e
